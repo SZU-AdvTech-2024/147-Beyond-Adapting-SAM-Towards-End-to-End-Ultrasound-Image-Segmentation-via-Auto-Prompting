@@ -1,0 +1,8 @@
+@misc{REPO147,
+    author = "Lin, Xian and Xiang, Yangyang and Zhang, Li and Yang, Xin and Yan, Zengqiang and Yu, Li",
+    archiveprefix = "arXiv",
+    eprint = "2309.06824",
+    primaryclass = "cs.CV",
+    title = "{SAMUS: Adapting Segment Anything Model for Clinically-Friendly and Generalizable Ultrasound Image Segmentation}",
+    year = "2023"
+}
